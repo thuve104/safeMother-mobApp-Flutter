@@ -1,5 +1,4 @@
 # Environment variables
-.env
 vision-key.json
 
 # Miscellaneous
@@ -52,3 +51,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+config.bat
+node_modules
